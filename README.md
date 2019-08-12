@@ -1,5 +1,9 @@
 # D3 Scatter Plot
 
+## Data Set (provided by Free Code Camp)
+
+[Cyclist Data](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json)
+
 ## User Stories
 
 - User can see a scatter plot of Doping in Professional Cycling
